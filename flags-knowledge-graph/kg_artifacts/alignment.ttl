@@ -1,0 +1,2203 @@
+@prefix flags: <http://flags-kg.org/ontology#> .
+@prefix flagsr: <http://flags-kg.org/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+flags:adoptedIn rdfs:label "inception"@en ;
+    owl:equivalentProperty wdt:P571 .
+
+flags:affiliatedWith rdfs:label "part of"@en ;
+    owl:equivalentProperty wdt:P361 .
+
+flags:hasFlag rdfs:label "flag"@en ;
+    owl:equivalentProperty wdt:P41 .
+
+flags:hasSymbol rdfs:label "logo image"@en ;
+    owl:equivalentProperty wdt:P154 .
+
+flags:locatedIn rdfs:label "country"@en ;
+    owl:equivalentProperty wdt:P17 .
+
+flagsr:Abruzzo rdfs:label "Abruzzo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1284 .
+
+flagsr:Abu_Dhabi rdfs:label "Abu Dhabi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1518 .
+
+flagsr:Addis_Ababa rdfs:label "Addis Ababa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3624 .
+
+flagsr:Aden rdfs:label "Aden"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q131694 .
+
+flagsr:Akrotiri rdfs:label "Akrotiri"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q295514 .
+
+flagsr:Alaska rdfs:label "Alaska"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q797 .
+
+flagsr:Albania rdfs:label "Albania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q222 .
+
+flagsr:Alberta rdfs:label "Alberta"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1951 .
+
+flagsr:Alexandria rdfs:label "Alexandria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q87 .
+
+flagsr:Algeria rdfs:label "Algeria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q262 .
+
+flagsr:Almaty rdfs:label "Almaty"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35493 .
+
+flagsr:America rdfs:label "America"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34195 .
+
+flagsr:Amman rdfs:label "Amman"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3805 .
+
+flagsr:Andalusia rdfs:label "Andalusia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5783 .
+
+flagsr:Angola rdfs:label "Angola"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q916 .
+
+flagsr:Anguilla rdfs:label "Anguilla"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25228 .
+
+flagsr:Anthem rdfs:label "Anthem"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q298906 .
+
+flagsr:Archives rdfs:label "Archives"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2305859 .
+
+flagsr:Argentina rdfs:label "Argentina"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q414 .
+
+flagsr:Arizona rdfs:label "Arizona"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q816 .
+
+flagsr:Arkansas rdfs:label "Arkansas"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1612 .
+
+flagsr:Artsakh rdfs:label "Artsakh"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q718140 .
+
+flagsr:Aruba rdfs:label "Aruba"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q21203 .
+
+flagsr:Arundhati rdfs:label "Arundhati"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2992957 .
+
+flagsr:Ashoka rdfs:label "Ashoka"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8589 .
+
+flagsr:Assisi rdfs:label "Assisi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q20103 .
+
+flagsr:Aswan rdfs:label "Aswan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q29888 .
+
+flagsr:Atria rdfs:label "Atria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q728274 .
+
+flagsr:Australasia rdfs:label "Australasia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q45256 .
+
+flagsr:Australia rdfs:label "Australia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q408 .
+
+flagsr:Austria rdfs:label "Austria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q40 .
+
+flagsr:Azerbaijan rdfs:label "Azerbaijan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q227 .
+
+flagsr:Baden rdfs:label "Baden"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q63939 .
+
+flagsr:Bahamas rdfs:label "Bahamas"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q4842324 .
+
+flagsr:Bahrain rdfs:label "Bahrain"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q398 .
+
+flagsr:Baku rdfs:label "Baku"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q9248 .
+
+flagsr:Bangkok rdfs:label "Bangkok"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1861 .
+
+flagsr:Barbados rdfs:label "Barbados"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q244 .
+
+flagsr:Barcelona rdfs:label "Barcelona"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1492 .
+
+flagsr:Baringo_County rdfs:label "Baringo County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q808201 .
+
+flagsr:Basutoland rdfs:label "Basutoland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2340665 .
+
+flagsr:Baton_Rouge rdfs:label "Baton Rouge"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q28218 .
+
+flagsr:Bauhinia rdfs:label "Bauhinia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q287313 .
+
+flagsr:Beaumont rdfs:label "Beaumont"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q95100 .
+
+flagsr:Beijing rdfs:label "Beijing"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q956 .
+
+flagsr:Belarus rdfs:label "Belarus"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q184 .
+
+flagsr:Belfast rdfs:label "Belfast"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q10686 .
+
+flagsr:Belgium rdfs:label "Belgium"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q31 .
+
+flagsr:Belluno rdfs:label "Belluno"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q6558 .
+
+flagsr:Bengal rdfs:label "Bengal"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q80338 .
+
+flagsr:Benin rdfs:label "Benin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q962 .
+
+flagsr:Benin_Empire rdfs:label "Benin Empire"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q171203 .
+
+flagsr:Berlin rdfs:label "Berlin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q64 .
+
+flagsr:Bermuda rdfs:label "Bermuda"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q23635 .
+
+flagsr:Bilbao rdfs:label "Bilbao"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8692 .
+
+flagsr:Bohemia rdfs:label "Bohemia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q39193 .
+
+flagsr:Bolivia rdfs:label "Bolivia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q750 .
+
+flagsr:Bolsheviks rdfs:label "Bolsheviks"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q83372 .
+
+flagsr:Bomet_County rdfs:label "Bomet County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q891952 .
+
+flagsr:Bomi_County rdfs:label "Bomi County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q844127 .
+
+flagsr:Bong_County rdfs:label "Bong County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q877578 .
+
+flagsr:Borivali rdfs:label "Borivali"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q4945504 .
+
+flagsr:Bosnia rdfs:label "Bosnia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q188736 .
+
+flagsr:Bosnia_and rdfs:label "Bosnia and"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q188736 .
+
+flagsr:Bosnia_and_Herzegovina rdfs:label "Bosnia and Herzegovina"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q188736 .
+
+flagsr:Botswana rdfs:label "Botswana"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q963 .
+
+flagsr:Brasília rdfs:label "Brasília"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2844 .
+
+flagsr:Brazil rdfs:label "Brazil"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q155 .
+
+flagsr:Bremen rdfs:label "Bremen"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1209 .
+
+flagsr:Brescia rdfs:label "Brescia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q6221 .
+
+flagsr:British_Columbia rdfs:label "British Columbia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1973 .
+
+flagsr:British_Empire rdfs:label "British Empire"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8680 .
+
+flagsr:British_Virgin_Islands rdfs:label "British Virgin Islands"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25305 .
+
+flagsr:Brittany rdfs:label "Brittany"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q327 .
+
+flagsr:Brunei rdfs:label "Brunei"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q921 .
+
+flagsr:Bucharest rdfs:label "Bucharest"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q19660 .
+
+flagsr:Bulgaria rdfs:label "Bulgaria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q219 .
+
+flagsr:Bungoma_County rdfs:label "Bungoma County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2928204 .
+
+flagsr:Burma rdfs:label "Burma"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2928516 .
+
+flagsr:Burundi rdfs:label "Burundi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q967 .
+
+flagsr:Busan rdfs:label "Busan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16520 .
+
+flagsr:Busia_County rdfs:label "Busia County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1017519 .
+
+flagsr:Cairo rdfs:label "Cairo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q85 .
+
+flagsr:Cambodia rdfs:label "Cambodia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q424 .
+
+flagsr:Cameroon rdfs:label "Cameroon"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1009 .
+
+flagsr:Campania rdfs:label "Campania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1438 .
+
+flagsr:Canada rdfs:label "Canada"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16 .
+
+flagsr:Carabinieri rdfs:label "Carabinieri"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q54852 .
+
+flagsr:Casablanca rdfs:label "Casablanca"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5047973 .
+
+flagsr:Castelnuovo rdfs:label "Castelnuovo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q265003 .
+
+flagsr:Catalonia rdfs:label "Catalonia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5705 .
+
+flagsr:Catania rdfs:label "Catania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1903 .
+
+flagsr:Centre rdfs:label "Centre"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q79650 .
+
+flagsr:Chad rdfs:label "Chad"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q657 .
+
+flagsr:Chelyabinsk rdfs:label "Chelyabinsk"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q906 .
+
+flagsr:Chennai rdfs:label "Chennai"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1352 .
+
+flagsr:Chicago rdfs:label "Chicago"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1297 .
+
+flagsr:Chile rdfs:label "Chile"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q298 .
+
+flagsr:China rdfs:label "China"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q29520 .
+
+flagsr:Clifford rdfs:label "Clifford"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q232560 .
+
+flagsr:Cologne rdfs:label "Cologne"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q365 .
+
+flagsr:Colombia rdfs:label "Colombia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q739 .
+
+flagsr:Colton rdfs:label "Colton"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q348192 .
+
+flagsr:Columbus rdfs:label "Columbus"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16567 .
+
+flagsr:Concord rdfs:label "Concord"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q28249 .
+
+flagsr:Congo rdfs:label "Congo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3503 .
+
+flagsr:Coquimbo rdfs:label "Coquimbo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3871 .
+
+flagsr:Costa_Rica rdfs:label "Costa Rica"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q800 .
+
+flagsr:Croatia rdfs:label "Croatia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q224 .
+
+flagsr:Cuba rdfs:label "Cuba"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q241 .
+
+flagsr:Czech_Republic rdfs:label "Czech Republic"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q213 .
+
+flagsr:Daegu rdfs:label "Daegu"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q20927 .
+
+flagsr:Danzig rdfs:label "Danzig"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q246734 .
+
+flagsr:Davao_City rdfs:label "Davao City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1473 .
+
+flagsr:Delaware rdfs:label "Delaware"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1393 .
+
+flagsr:Delhi rdfs:label "Delhi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1353 .
+
+flagsr:Denmark rdfs:label "Denmark"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35 .
+
+flagsr:Devanagari rdfs:label "Devanagari"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q38592 .
+
+flagsr:Djibouti rdfs:label "Djibouti"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q977 .
+
+flagsr:Dominica rdfs:label "Dominica"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q784 .
+
+flagsr:Dubai rdfs:label "Dubai"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q612 .
+
+flagsr:Dublin rdfs:label "Dublin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1761 .
+
+flagsr:Durham rdfs:label "Durham"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q48834175 .
+
+flagsr:Dutch rdfs:label "Dutch"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q7411 .
+
+flagsr:Ecuador rdfs:label "Ecuador"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q736 .
+
+flagsr:Edinburgh rdfs:label "Edinburgh"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q23436 .
+
+flagsr:Egypt rdfs:label "Egypt"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q79 .
+
+flagsr:El_Salvador rdfs:label "El Salvador"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q792 .
+
+flagsr:Emilia rdfs:label "Emilia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q251222 .
+
+flagsr:Emperor rdfs:label "Emperor"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q264029 .
+
+flagsr:England rdfs:label "England"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q21 .
+
+flagsr:Equatorial_Guinea rdfs:label "Equatorial Guinea"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q1006 .
+
+flagsr:Eritrea rdfs:label "Eritrea"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q986 .
+
+flagsr:Estonia rdfs:label "Estonia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q191 .
+
+flagsr:Ethiopia rdfs:label "Ethiopia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q115 .
+
+flagsr:Fiji rdfs:label "Fiji"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q712 .
+
+flagsr:Finland rdfs:label "Finland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q33 .
+
+flagsr:Florida rdfs:label "Florida"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q812 .
+
+flagsr:Foggia rdfs:label "Foggia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q13464 .
+
+flagsr:Forlì rdfs:label "Forlì"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q13367 .
+
+flagsr:France rdfs:label "France"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q142 .
+
+flagsr:Fukuoka rdfs:label "Fukuoka"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q26600 .
+
+flagsr:Gambia rdfs:label "Gambia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1227547 .
+
+flagsr:Garag rdfs:label "Garag"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5521857 .
+
+flagsr:Gbarpolu_County rdfs:label "Gbarpolu County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q592251 .
+
+flagsr:Gemini rdfs:label "Gemini"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8923 .
+
+flagsr:Geneva rdfs:label "Geneva"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q71 .
+
+flagsr:Genoa rdfs:label "Genoa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5533428 .
+
+flagsr:Georgia rdfs:label "Georgia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1509291 .
+
+flagsr:German_Empire rdfs:label "German Empire"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q43287 .
+
+flagsr:Germany rdfs:label "Germany"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q183 .
+
+flagsr:Gettysburg rdfs:label "Gettysburg"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q123166 .
+
+flagsr:Ghana rdfs:label "Ghana"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q117 .
+
+flagsr:Ghibellines rdfs:label "Ghibellines"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1010181 .
+
+flagsr:Gibraltar rdfs:label "Gibraltar"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1410 .
+
+flagsr:Glasgow rdfs:label "Glasgow"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1871967 .
+
+flagsr:Gorizia rdfs:label "Gorizia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q6596 .
+
+flagsr:Granada rdfs:label "Granada"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8810 .
+
+flagsr:Great_Britain rdfs:label "Great Britain"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q23666 .
+
+flagsr:Greenland rdfs:label "Greenland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q223 .
+
+flagsr:Grenada rdfs:label "Grenada"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q769 .
+
+flagsr:Guatemala rdfs:label "Guatemala"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q774 .
+
+flagsr:Guatemala_City rdfs:label "Guatemala City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1555 .
+
+flagsr:Guernsey rdfs:label "Guernsey"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25230 .
+
+flagsr:Guinea rdfs:label "Guinea"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1006 .
+
+flagsr:Gwalior rdfs:label "Gwalior"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q158467 .
+
+flagsr:Haiti rdfs:label "Haiti"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q790 .
+
+flagsr:Hamburg rdfs:label "Hamburg"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1055 .
+
+flagsr:Hanna rdfs:label "Hanna"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q170268 .
+
+flagsr:Hawaii rdfs:label "Hawaii"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q782 .
+
+flagsr:Herzegovina rdfs:label "Herzegovina"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q189863 .
+
+flagsr:Hesse rdfs:label "Hesse"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1199 .
+
+flagsr:Hindi rdfs:label "Hindi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1568 .
+
+flagsr:Hiroshima rdfs:label "Hiroshima"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34664 .
+
+flagsr:Hirshabelle rdfs:label "Hirshabelle"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q30322863 .
+
+flagsr:Holland rdfs:label "Holland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q79591 .
+
+flagsr:Holly rdfs:label "Holly"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q295164 .
+
+flagsr:Honduras rdfs:label "Honduras"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q783 .
+
+flagsr:Hong_Kong rdfs:label "Hong Kong"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8646 .
+
+flagsr:Honor rdfs:label "Honor"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q420161 .
+
+flagsr:Hugh rdfs:label "Hugh"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q920516 .
+
+flagsr:Hungary rdfs:label "Hungary"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q28 .
+
+flagsr:Hydra rdfs:label "Hydra"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q10578 .
+
+flagsr:Iceland rdfs:label "Iceland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q189 .
+
+flagsr:India rdfs:label "India"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q668 .
+
+flagsr:Indonesia rdfs:label "Indonesia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q252 .
+
+flagsr:Iowa rdfs:label "Iowa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1546 .
+
+flagsr:Iran rdfs:label "Iran"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q794 .
+
+flagsr:Iraq rdfs:label "Iraq"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q796 .
+
+flagsr:Ireland rdfs:label "Ireland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q27 .
+
+flagsr:Isiolo_County rdfs:label "Isiolo County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1499046 .
+
+flagsr:Israel rdfs:label "Israel"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q801 .
+
+flagsr:Italia rdfs:label "Italia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q233567 .
+
+flagsr:Italy rdfs:label "Italy"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q38 .
+
+flagsr:Ivory_Coast rdfs:label "Ivory Coast"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1008 .
+
+flagsr:Jakarta rdfs:label "Jakarta"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3630 .
+
+flagsr:Jamaica rdfs:label "Jamaica"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q766 .
+
+flagsr:Japan rdfs:label "Japan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q17 .
+
+flagsr:Jersey rdfs:label "Jersey"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q347430 .
+
+flagsr:Kaaba rdfs:label "Kaaba"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q29466 .
+
+flagsr:Kagawa rdfs:label "Kagawa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q394394 .
+
+flagsr:Kajiado_County rdfs:label "Kajiado County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q285072 .
+
+flagsr:Kakamega_County rdfs:label "Kakamega County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1721867 .
+
+flagsr:Kano_State rdfs:label "Kano State"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q682571 .
+
+flagsr:Kanuri rdfs:label "Kanuri"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36094 .
+
+flagsr:Kaohsiung rdfs:label "Kaohsiung"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q181557 .
+
+flagsr:Kapoor rdfs:label "Kapoor"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q4213257 .
+
+flagsr:Kawasaki rdfs:label "Kawasaki"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q164234 .
+
+flagsr:Kazakhstan rdfs:label "Kazakhstan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q232 .
+
+flagsr:Kentucky rdfs:label "Kentucky"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1603 .
+
+flagsr:Kenya rdfs:label "Kenya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q114 .
+
+flagsr:Kericho_County rdfs:label "Kericho County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1739252 .
+
+flagsr:Kiambu_County rdfs:label "Kiambu County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2575594 .
+
+flagsr:Kilifi_County rdfs:label "Kilifi County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1741307 .
+
+flagsr:Kimigayo rdfs:label "Kimigayo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q81534 .
+
+flagsr:Kingdom rdfs:label "Kingdom"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q425659 .
+
+flagsr:Kingdom_of_Cyprus rdfs:label "Kingdom of Cyprus"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q213638 .
+
+flagsr:Kingdom_of_Serbia rdfs:label "Kingdom of Serbia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q241748 .
+
+flagsr:Kingston rdfs:label "Kingston"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q30963 .
+
+flagsr:Kinshasa rdfs:label "Kinshasa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3838 .
+
+flagsr:Kisii_County rdfs:label "Kisii County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1743730 .
+
+flagsr:Kisumu_County rdfs:label "Kisumu County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1743809 .
+
+flagsr:Kitui_County rdfs:label "Kitui County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1722597 .
+
+flagsr:Kobe rdfs:label "Kobe"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q48320 .
+
+flagsr:Komi rdfs:label "Komi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36126 .
+
+flagsr:Korea rdfs:label "Korea"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q18097 .
+
+flagsr:Kosovo rdfs:label "Kosovo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1231 .
+
+flagsr:Krasnoyarsk rdfs:label "Krasnoyarsk"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q919 .
+
+flagsr:Kuala_Lumpur rdfs:label "Kuala Lumpur"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1865 .
+
+flagsr:Kurdistan rdfs:label "Kurdistan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q41470 .
+
+flagsr:Kuwait rdfs:label "Kuwait"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q817 .
+
+flagsr:Kuwait_City rdfs:label "Kuwait City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35178 .
+
+flagsr:Kwale_County rdfs:label "Kwale County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q952571 .
+
+flagsr:Kyoto rdfs:label "Kyoto"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34600 .
+
+flagsr:Kyrgyzstan rdfs:label "Kyrgyzstan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q813 .
+
+flagsr:Labrador rdfs:label "Labrador"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q41942 .
+
+flagsr:Labuan rdfs:label "Labuan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q214504 .
+
+flagsr:Lagos rdfs:label "Lagos"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q820969 .
+
+flagsr:Laguna rdfs:label "Laguna"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q228869 .
+
+flagsr:Laikipia_County rdfs:label "Laikipia County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1800699 .
+
+flagsr:Laos rdfs:label "Laos"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q819 .
+
+flagsr:Latvia rdfs:label "Latvia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q211 .
+
+flagsr:Lazio rdfs:label "Lazio"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1282 .
+
+flagsr:Lebanon rdfs:label "Lebanon"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q822 .
+
+flagsr:Leipzig rdfs:label "Leipzig"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2079 .
+
+flagsr:Liberia rdfs:label "Liberia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1014 .
+
+flagsr:Libya rdfs:label "Libya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1016 .
+
+flagsr:Liechtenstein rdfs:label "Liechtenstein"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q347 .
+
+flagsr:Lithuania rdfs:label "Lithuania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q37 .
+
+flagsr:Lofa_County rdfs:label "Lofa County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q870130 .
+
+flagsr:Lombardy rdfs:label "Lombardy"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1210 .
+
+flagsr:London rdfs:label "London"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q84 .
+
+flagsr:Lorraine rdfs:label "Lorraine"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1137 .
+
+flagsr:Lozi rdfs:label "Lozi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q33628 .
+
+flagsr:Lucca rdfs:label "Lucca"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q13373 .
+
+flagsr:Luxembourg rdfs:label "Luxembourg"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q32 .
+
+flagsr:Luxor rdfs:label "Luxor"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q130514 .
+
+flagsr:Macao rdfs:label "Macao"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1100979 .
+
+flagsr:Macau rdfs:label "Macau"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q14773 .
+
+flagsr:Macedon rdfs:label "Macedon"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1121864 .
+
+flagsr:Macedonia rdfs:label "Macedonia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q39702 .
+
+flagsr:Machakos_County rdfs:label "Machakos County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1882639 .
+
+flagsr:Madagascar rdfs:label "Madagascar"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1019 .
+
+flagsr:Magyar rdfs:label "Magyar"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q398056 .
+
+flagsr:Maidenhead rdfs:label "Maidenhead"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q238803 .
+
+flagsr:Maine rdfs:label "Maine"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q724 .
+
+flagsr:Malaysia rdfs:label "Malaysia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q833 .
+
+flagsr:Mali rdfs:label "Mali"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q912 .
+
+flagsr:Malta rdfs:label "Malta"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q233 .
+
+flagsr:Manchu rdfs:label "Manchu"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q81126 .
+
+flagsr:Manchuria rdfs:label "Manchuria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q81126 .
+
+flagsr:Mandera_County rdfs:label "Mandera County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1477874 .
+
+flagsr:Manitoba rdfs:label "Manitoba"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1948 .
+
+flagsr:Mantua rdfs:label "Mantua"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q6247 .
+
+flagsr:Margibi_County rdfs:label "Margibi County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1052737 .
+
+flagsr:Marsabit_County rdfs:label "Marsabit County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1323683 .
+
+flagsr:Marsala rdfs:label "Marsala"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q359249 .
+
+flagsr:Maryland_County rdfs:label "Maryland County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q870138 .
+
+flagsr:Massachusetts rdfs:label "Massachusetts"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q771 .
+
+flagsr:Mauritania rdfs:label "Mauritania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1025 .
+
+flagsr:Melbourne rdfs:label "Melbourne"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3141 .
+
+flagsr:Melegnano rdfs:label "Melegnano"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q42932 .
+
+flagsr:Menton rdfs:label "Menton"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q180083 .
+
+flagsr:Mexico rdfs:label "Mexico"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q96 .
+
+flagsr:Mexico_City rdfs:label "Mexico City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1489 .
+
+flagsr:Milan rdfs:label "Milan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q490 .
+
+flagsr:Minya rdfs:label "Minya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q310117 .
+
+flagsr:Missouri rdfs:label "Missouri"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1581 .
+
+flagsr:Miyazaki rdfs:label "Miyazaki"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q204308 .
+
+flagsr:Modena rdfs:label "Modena"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q279 .
+
+flagsr:Moldova rdfs:label "Moldova"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q217 .
+
+flagsr:Mombasa_County rdfs:label "Mombasa County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1112885 .
+
+flagsr:Monaco rdfs:label "Monaco"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q235 .
+
+flagsr:Mongolia rdfs:label "Mongolia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q711 .
+
+flagsr:Montana rdfs:label "Montana"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1212 .
+
+flagsr:Montenegro rdfs:label "Montenegro"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q236 .
+
+flagsr:Montreal rdfs:label "Montreal"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q340 .
+
+flagsr:Montserrado_County rdfs:label "Montserrado County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q862608 .
+
+flagsr:Morocco rdfs:label "Morocco"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1028 .
+
+flagsr:Moscow rdfs:label "Moscow"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q649 .
+
+flagsr:Moscow_Municipality rdfs:label "Moscow Municipality"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q649 .
+
+flagsr:Munich rdfs:label "Munich"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1726 .
+
+flagsr:Munster rdfs:label "Munster"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q21729 .
+
+flagsr:Myanmar rdfs:label "Myanmar"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q836 .
+
+flagsr:Nagoya rdfs:label "Nagoya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q11751 .
+
+flagsr:Nakuru rdfs:label "Nakuru"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q239421 .
+
+flagsr:Nakuru_County rdfs:label "Nakuru County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1852202 .
+
+flagsr:Nanjing rdfs:label "Nanjing"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16666 .
+
+flagsr:Naples rdfs:label "Naples"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2634 .
+
+flagsr:Nara rdfs:label "Nara"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36179 .
+
+flagsr:Nashville rdfs:label "Nashville"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q23197 .
+
+flagsr:Navarre rdfs:label "Navarre"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q4018 .
+
+flagsr:Nazi_Germany rdfs:label "Nazi Germany"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q7318 .
+
+flagsr:Nebraska rdfs:label "Nebraska"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1553 .
+
+flagsr:Netherlands rdfs:label "Netherlands"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q55 .
+
+flagsr:Nevada rdfs:label "Nevada"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1227 .
+
+flagsr:New_Brunswick rdfs:label "New Brunswick"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1965 .
+
+flagsr:New_Delhi rdfs:label "New Delhi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q987 .
+
+flagsr:New_Jersey rdfs:label "New Jersey"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1408 .
+
+flagsr:New_Zealand rdfs:label "New Zealand"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q664 .
+
+flagsr:Newfoundland rdfs:label "Newfoundland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q48335 .
+
+flagsr:Ngāpuhi rdfs:label "Ngāpuhi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1283558 .
+
+flagsr:Nicaragua rdfs:label "Nicaragua"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q811 .
+
+flagsr:Nigeria rdfs:label "Nigeria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1033 .
+
+flagsr:Niigata rdfs:label "Niigata"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q179691 .
+
+flagsr:Niue rdfs:label "Niue"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34020 .
+
+flagsr:Nordic rdfs:label "Nordic"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q356141 .
+
+flagsr:Norfolk rdfs:label "Norfolk"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q23109 .
+
+flagsr:Norman rdfs:label "Norman"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q33850 .
+
+flagsr:North_Holland rdfs:label "North Holland"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q79591 .
+
+flagsr:North_Sydney rdfs:label "North Sydney"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q422891 .
+
+flagsr:Northwest_Territories rdfs:label "Northwest Territories"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2007 .
+
+flagsr:Norway rdfs:label "Norway"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q20 .
+
+flagsr:Nova_Scotia rdfs:label "Nova Scotia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1952 .
+
+flagsr:Novosibirsk rdfs:label "Novosibirsk"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q883 .
+
+flagsr:Nyandarua rdfs:label "Nyandarua"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q1714352 .
+
+flagsr:Nyandarua_County rdfs:label "Nyandarua County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1714352 .
+
+flagsr:Nyeri_County rdfs:label "Nyeri County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q749665 .
+
+flagsr:Oasis rdfs:label "Oasis"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q227537 .
+
+flagsr:Okinawa rdfs:label "Okinawa"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q766445 .
+
+flagsr:Okinawa_Prefecture rdfs:label "Okinawa Prefecture"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q766445 .
+
+flagsr:Oman rdfs:label "Oman"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q842 .
+
+flagsr:Orange rdfs:label "Orange"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q187796 .
+
+flagsr:Osaka rdfs:label "Osaka"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35765 .
+
+flagsr:Ottawa rdfs:label "Ottawa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1930 .
+
+flagsr:Ottoman_Empire rdfs:label "Ottoman Empire"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q12560 .
+
+flagsr:Pakistan rdfs:label "Pakistan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q843 .
+
+flagsr:Palau rdfs:label "Palau"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q695 .
+
+flagsr:Panama rdfs:label "Panama"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q804 .
+
+flagsr:Paris rdfs:label "Paris"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q90 .
+
+flagsr:Parkes rdfs:label "Parkes"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q423403 .
+
+flagsr:Pearl_Harbor rdfs:label "Pearl Harbor"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q127091 .
+
+flagsr:Penang rdfs:label "Penang"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q188096 .
+
+flagsr:People_s_Republic_of_Bulgaria rdfs:label "People's Republic of Bulgaria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q121932 .
+
+flagsr:Persia rdfs:label "Persia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1913014 .
+
+flagsr:Perth rdfs:label "Perth"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3183 .
+
+flagsr:Peru rdfs:label "Peru"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q419 .
+
+flagsr:Philadelphia rdfs:label "Philadelphia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1345 .
+
+flagsr:Philippines rdfs:label "Philippines"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q928 .
+
+flagsr:Piazza rdfs:label "Piazza"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q422160 .
+
+flagsr:Piedmont rdfs:label "Piedmont"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1216 .
+
+flagsr:Pike_County rdfs:label "Pike County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q61202 .
+
+flagsr:Pinerolo rdfs:label "Pinerolo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q9573 .
+
+flagsr:Piombino rdfs:label "Piombino"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q157824 .
+
+flagsr:Poland rdfs:label "Poland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36 .
+
+flagsr:Polynesia rdfs:label "Polynesia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35942 .
+
+flagsr:Porta rdfs:label "Porta"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q198196 .
+
+flagsr:Portugal rdfs:label "Portugal"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q45 .
+
+flagsr:Pretoria rdfs:label "Pretoria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3926 .
+
+flagsr:Prince_Edward_Island rdfs:label "Prince Edward Island"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1978 .
+
+flagsr:Princeton rdfs:label "Princeton"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q224442 .
+
+flagsr:Prussia rdfs:label "Prussia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q38872 .
+
+flagsr:Puerto_Rico rdfs:label "Puerto Rico"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1183 .
+
+flagsr:Puntland rdfs:label "Puntland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q485112 .
+
+flagsr:Qatar rdfs:label "Qatar"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q846 .
+
+flagsr:Quebec_City rdfs:label "Quebec City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2145 .
+
+flagsr:Queensland rdfs:label "Queensland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36074 .
+
+flagsr:Quezon_City rdfs:label "Quezon City"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1475 .
+
+flagsr:ROC rdfs:label "ROC"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q10648236 .
+
+flagsr:Regio rdfs:label "Regio"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2138147 .
+
+flagsr:Remembrance rdfs:label "Remembrance"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1157117 .
+
+flagsr:Republic_of_Lucca rdfs:label "Republic of Lucca"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q13373 .
+
+flagsr:Rhodesia rdfs:label "Rhodesia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q217169 .
+
+flagsr:Ricardo rdfs:label "Ricardo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q230713 .
+
+flagsr:Rio_de_Janeiro rdfs:label "Rio de Janeiro"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8678 .
+
+flagsr:Ripley rdfs:label "Ripley"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q170648 .
+
+flagsr:Roman_Republic rdfs:label "Roman Republic"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q17167 .
+
+flagsr:Romania rdfs:label "Romania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q218 .
+
+flagsr:Rome rdfs:label "Rome"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q220 .
+
+flagsr:Roquebrune rdfs:label "Roquebrune"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q249851 .
+
+flagsr:Rovereto rdfs:label "Rovereto"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q279373 .
+
+flagsr:Russia rdfs:label "Russia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q159 .
+
+flagsr:Russian_Empire rdfs:label "Russian Empire"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34266 .
+
+flagsr:Rwanda rdfs:label "Rwanda"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1037 .
+
+flagsr:Saint_Andrew rdfs:label "Saint Andrew"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q131051 .
+
+flagsr:Saint_Barthélemy rdfs:label "Saint Barthélemy"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25362 .
+
+flagsr:Saint_Mark rdfs:label "Saint Mark"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q526195 .
+
+flagsr:Saint_Martin rdfs:label "Saint Martin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25596 .
+
+flagsr:Saitama rdfs:label "Saitama"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q134635 .
+
+flagsr:Samburu rdfs:label "Samburu"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q56536 .
+
+flagsr:Samburu_County rdfs:label "Samburu County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2096419 .
+
+flagsr:San_Francisco rdfs:label "San Francisco"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q20138487 .
+
+flagsr:San_Giusto rdfs:label "San Giusto"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2219641 .
+
+flagsr:San_Martino rdfs:label "San Martino"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q403709 .
+
+flagsr:San_Salvador rdfs:label "San Salvador"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3110 .
+
+flagsr:Sanluri rdfs:label "Sanluri"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q13656 .
+
+flagsr:Santa_Catarina rdfs:label "Santa Catarina"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q6120291 .
+
+flagsr:Sapporo rdfs:label "Sapporo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q37951 .
+
+flagsr:Sardinia rdfs:label "Sardinia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1462 .
+
+flagsr:Saskatchewan rdfs:label "Saskatchewan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1989 .
+
+flagsr:Saudi_Arabia rdfs:label "Saudi Arabia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q851 .
+
+flagsr:Scorpius rdfs:label "Scorpius"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8865 .
+
+flagsr:Scotland rdfs:label "Scotland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q22 .
+
+flagsr:Senegal rdfs:label "Senegal"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1041 .
+
+flagsr:Seoul rdfs:label "Seoul"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8684 .
+
+flagsr:Sera rdfs:label "Sera"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q405325 .
+
+flagsr:Serbia rdfs:label "Serbia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q403 .
+
+flagsr:Shandong rdfs:label "Shandong"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q43407 .
+
+flagsr:Shanghai rdfs:label "Shanghai"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8686 .
+
+flagsr:Sharjah rdfs:label "Sharjah"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q289693 .
+
+flagsr:Shiga rdfs:label "Shiga"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q398052 .
+
+flagsr:Shizuoka rdfs:label "Shizuoka"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q174691 .
+
+flagsr:Sierra_Leone rdfs:label "Sierra Leone"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1044 .
+
+flagsr:Silva rdfs:label "Silva"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q230163 .
+
+flagsr:Singapore rdfs:label "Singapore"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q334 .
+
+flagsr:Sinoe_County rdfs:label "Sinoe County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1043644 .
+
+flagsr:Slovakia rdfs:label "Slovakia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q214 .
+
+flagsr:Slovenia rdfs:label "Slovenia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q215 .
+
+flagsr:Sofia rdfs:label "Sofia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q472 .
+
+flagsr:Solferino rdfs:label "Solferino"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q42788 .
+
+flagsr:Somalia rdfs:label "Somalia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1045 .
+
+flagsr:Somaliland rdfs:label "Somaliland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34754 .
+
+flagsr:South_Africa rdfs:label "South Africa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q258 .
+
+flagsr:South_Dakota rdfs:label "South Dakota"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1211 .
+
+flagsr:South_Korea rdfs:label "South Korea"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q884 .
+
+flagsr:South_Yemen rdfs:label "South Yemen"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q199841 .
+
+flagsr:Soviet_Republic rdfs:label "Soviet Republic"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1031103 .
+
+flagsr:Spain rdfs:label "Spain"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q29 .
+
+flagsr:Springfield rdfs:label "Springfield"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q28515 .
+
+flagsr:Sri_Lanka rdfs:label "Sri Lanka"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q854 .
+
+flagsr:St_Andrew rdfs:label "St. Andrew"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1040644 .
+
+flagsr:St_George rdfs:label "St George"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q427374 .
+
+flagsr:St_Patrick rdfs:label "St. Patrick"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1041132 .
+
+flagsr:Stampa rdfs:label "Stampa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q688507 .
+
+flagsr:Stephen rdfs:label "Stephen"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q316006 .
+
+flagsr:Stockholm rdfs:label "Stockholm"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1754 .
+
+flagsr:Sudan rdfs:label "Sudan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1049 .
+
+flagsr:Surabaya rdfs:label "Surabaya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q11462 .
+
+flagsr:Sweden rdfs:label "Sweden"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34 .
+
+flagsr:Switzerland rdfs:label "Switzerland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q39 .
+
+flagsr:Sydney rdfs:label "Sydney"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3130 .
+
+flagsr:Syria rdfs:label "Syria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q858 .
+
+flagsr:Taichung rdfs:label "Taichung"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q245023 .
+
+flagsr:Tainan rdfs:label "Tainan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q140631 .
+
+flagsr:Taipei rdfs:label "Taipei"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1867 .
+
+flagsr:Taiwan rdfs:label "Taiwan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q865 .
+
+flagsr:Tanzania rdfs:label "Tanzania"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q924 .
+
+flagsr:Taoyuan rdfs:label "Taoyuan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q115256 .
+
+flagsr:Taunton rdfs:label "Taunton"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q127506 .
+
+flagsr:Tegucigalpa rdfs:label "Tegucigalpa"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3238 .
+
+flagsr:Tehran rdfs:label "Tehran"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3616 .
+
+flagsr:Tennessee rdfs:label "Tennessee"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1509 .
+
+flagsr:Thailand rdfs:label "Thailand"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q869 .
+
+flagsr:Tian rdfs:label "Tian"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1364799 .
+
+flagsr:Tibetan rdfs:label "Tibetan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34271 .
+
+flagsr:Tobago rdfs:label "Tobago"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q185111 .
+
+flagsr:Tokushima rdfs:label "Tokushima"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q207309 .
+
+flagsr:Tokyo rdfs:label "Tokyo"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1490 .
+
+flagsr:Tonga rdfs:label "Tonga"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q678 .
+
+flagsr:Toronto rdfs:label "Toronto"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q172 .
+
+flagsr:Toyama rdfs:label "Toyama"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q204266 .
+
+flagsr:Trentino rdfs:label "Trentino"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16289 .
+
+flagsr:Trento rdfs:label "Trento"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3376 .
+
+flagsr:Trieste rdfs:label "Trieste"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q546 .
+
+flagsr:Trinidad rdfs:label "Trinidad"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34986 .
+
+flagsr:Tunisia rdfs:label "Tunisia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q948 .
+
+flagsr:Turin rdfs:label "Turin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q495 .
+
+flagsr:Turkana_County rdfs:label "Turkana County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1633078 .
+
+flagsr:Turkey rdfs:label "Turkey"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q43 .
+
+flagsr:Turkmenistan rdfs:label "Turkmenistan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q874 .
+
+flagsr:Tuscany rdfs:label "Tuscany"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1273 .
+
+flagsr:Tutsi rdfs:label "Tutsi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q193092 .
+
+flagsr:USSR rdfs:label "USSR"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q446861 .
+
+flagsr:Uasin_Gishu_County rdfs:label "Uasin Gishu County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1121429 .
+
+flagsr:Udine rdfs:label "Udine"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2790 .
+
+flagsr:Uganda rdfs:label "Uganda"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1036 .
+
+flagsr:Ukraine rdfs:label "Ukraine"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q212 .
+
+flagsr:Ukrainian rdfs:label "Ukrainian"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q8798 .
+
+flagsr:Umbria rdfs:label "Umbria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1280 .
+
+flagsr:United_Arab_Emirates rdfs:label "United Arab Emirates"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q878 .
+
+flagsr:United_Kingdom rdfs:label "United Kingdom"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q145 .
+
+flagsr:United_States rdfs:label "United States"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q30 .
+
+flagsr:Vasai rdfs:label "Vasai"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1949022 .
+
+flagsr:Venezia rdfs:label "Venezia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2512867 .
+
+flagsr:Venezuela rdfs:label "Venezuela"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q717 .
+
+flagsr:Venice rdfs:label "Venice"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q641 .
+
+flagsr:Verona rdfs:label "Verona"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2028 .
+
+flagsr:Victoria rdfs:label "Victoria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2621166 .
+
+flagsr:Vietnam rdfs:label "Vietnam"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q881 .
+
+flagsr:Vihiga_County rdfs:label "Vihiga County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1313202 .
+
+flagsr:Virgin_Islands rdfs:label "Virgin Islands"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q26262 .
+
+flagsr:Virginia rdfs:label "Virginia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1370 .
+
+flagsr:Vittoria rdfs:label "Vittoria"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34130 .
+
+flagsr:Volgograd rdfs:label "Volgograd"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q914 .
+
+flagsr:Voronezh rdfs:label "Voronezh"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q3426 .
+
+flagsr:Waitangi rdfs:label "Waitangi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q422840 .
+
+flagsr:Wajir_County rdfs:label "Wajir County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1852209 .
+
+flagsr:Wales rdfs:label "Wales"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q25 .
+
+flagsr:Walton rdfs:label "Walton"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q40201 .
+
+flagsr:Washington rdfs:label "Washington"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1223 .
+
+flagsr:Wenzhou rdfs:label "Wenzhou"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q42635 .
+
+flagsr:Weoley_Castle rdfs:label "Weoley Castle"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q7983099 .
+
+flagsr:West_Berlin rdfs:label "West Berlin"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q64 .
+
+flagsr:West_Pokot_County rdfs:label "West Pokot County"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q590860 .
+
+flagsr:Weymouth_Township rdfs:label "Weymouth Township"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q993608 .
+
+flagsr:White rdfs:label "White"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q225053 .
+
+flagsr:Winston rdfs:label "Winston"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q171494 .
+
+flagsr:Wisconsin rdfs:label "Wisconsin"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1537 .
+
+flagsr:Wuhan rdfs:label "Wuhan"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q11746 .
+
+flagsr:Wyoming rdfs:label "Wyoming"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q1214 .
+
+flagsr:Xi_an rdfs:label "Xi'an"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5826 .
+
+flagsr:Yamaguchi rdfs:label "Yamaguchi"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q207876 .
+
+flagsr:Yangon rdfs:label "Yangon"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q37995 .
+
+flagsr:Yekaterinburg rdfs:label "Yekaterinburg"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q887 .
+
+flagsr:Yemen rdfs:label "Yemen"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q805 .
+
+flagsr:Yokohama rdfs:label "Yokohama"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q38283 .
+
+flagsr:Yoruba rdfs:label "Yoruba"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q34311 .
+
+flagsr:Yugoslavia rdfs:label "Yugoslavia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36704 .
+
+flagsr:Zambia rdfs:label "Zambia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q953 .
+
+flagsr:Zeeland rdfs:label "Zeeland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q705 .
+
+flagsr:Zhejiang rdfs:label "Zhejiang"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q16967 .
+
+flagsr:Zimbabwe rdfs:label "Zimbabwe"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q954 .
+
+flagsr:Zimbabwe_Rhodesia rdfs:label "Zimbabwe Rhodesia"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q890120 .
+
+flagsr:kingdom rdfs:label "kingdom"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q36732 .
+
+flagsr:satya rdfs:label "satya"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q2317397 .
+
+flagsr:the_Kingdom_of_Castile rdfs:label "the Kingdom of Castile"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q425659 .
+
+flagsr:the_Kingdom_of_Galicia rdfs:label "the Kingdom of Galicia"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q425659 .
+
+flagsr:the_Kingdom_of_León rdfs:label "the Kingdom of León"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q425659 .
+
+flagsr:the_Kingdom_of_Lombardy_Venetia rdfs:label "the Kingdom of Lombardy–Venetia"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q1210 .
+
+flagsr:the_Kingdom_of_Portugal rdfs:label "the Kingdom of Portugal"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q36732 .
+
+flagsr:the_Komi_Republic rdfs:label "the Komi Republic"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q36126 .
+
+flagsr:the_Roman_Republic rdfs:label "the Roman Republic"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q17167 .
+
+flagsr:the_United_States_of_America rdfs:label "the United States of America"@en ;
+    flags:wikidataConfidence "0.85"^^xsd:float ;
+    owl:sameAs wd:Q34195 .
+
+flagsr:width rdfs:label "width"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q35059 .
+
+flagsr:Åland rdfs:label "Åland"@en ;
+    flags:wikidataConfidence "0.99"^^xsd:float ;
+    owl:sameAs wd:Q5689 .
+

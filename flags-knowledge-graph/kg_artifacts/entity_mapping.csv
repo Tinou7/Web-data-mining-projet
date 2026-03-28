@@ -1,0 +1,546 @@
+Private Entity,External URI,QID,Label,Confidence
+Netherlands,http://www.wikidata.org/entity/Q55,Q55,Netherlands,0.99
+Venezuela,http://www.wikidata.org/entity/Q717,Q717,Venezuela,0.99
+Bolivia,http://www.wikidata.org/entity/Q750,Q750,Bolivia,0.99
+Norfolk,http://www.wikidata.org/entity/Q23109,Q23109,Norfolk,0.99
+Canada,http://www.wikidata.org/entity/Q16,Q16,Canada,0.99
+Mexico,http://www.wikidata.org/entity/Q96,Q96,Mexico,0.99
+United States,http://www.wikidata.org/entity/Q30,Q30,United States,0.99
+United Kingdom,http://www.wikidata.org/entity/Q145,Q145,United Kingdom,0.99
+Brazil,http://www.wikidata.org/entity/Q155,Q155,Brazil,0.99
+Australia,http://www.wikidata.org/entity/Q408,Q408,Australia,0.99
+New Zealand,http://www.wikidata.org/entity/Q664,Q664,New Zealand,0.99
+France,http://www.wikidata.org/entity/Q142,Q142,France,0.99
+Cuba,http://www.wikidata.org/entity/Q241,Q241,Cuba,0.99
+Chile,http://www.wikidata.org/entity/Q298,Q298,Chile,0.99
+Colombia,http://www.wikidata.org/entity/Q739,Q739,Colombia,0.99
+Costa Rica,http://www.wikidata.org/entity/Q800,Q800,Costa Rica,0.99
+Aruba,http://www.wikidata.org/entity/Q21203,Q21203,Aruba,0.99
+Bermuda,http://www.wikidata.org/entity/Q23635,Q23635,Bermuda,0.99
+Anguilla,http://www.wikidata.org/entity/Q25228,Q25228,Anguilla,0.99
+Polynesia,http://www.wikidata.org/entity/Q35942,Q35942,Polynesia,0.99
+Fiji,http://www.wikidata.org/entity/Q712,Q712,Fiji,0.99
+Honduras,http://www.wikidata.org/entity/Q783,Q783,Honduras,0.99
+El Salvador,http://www.wikidata.org/entity/Q792,Q792,El Salvador,0.99
+Panama,http://www.wikidata.org/entity/Q804,Q804,Panama,0.99
+Nicaragua,http://www.wikidata.org/entity/Q811,Q811,Nicaragua,0.99
+Trinidad,http://www.wikidata.org/entity/Q34986,Q34986,Trinidad,0.99
+Greenland,http://www.wikidata.org/entity/Q223,Q223,Greenland,0.99
+Jamaica,http://www.wikidata.org/entity/Q766,Q766,Jamaica,0.99
+Yemen,http://www.wikidata.org/entity/Q805,Q805,Yemen,0.99
+Thailand,http://www.wikidata.org/entity/Q869,Q869,Thailand,0.99
+Vietnam,http://www.wikidata.org/entity/Q881,Q881,Vietnam,0.99
+Philippines,http://www.wikidata.org/entity/Q928,Q928,Philippines,0.99
+Mexico City,http://www.wikidata.org/entity/Q1489,Q1489,Mexico City,0.99
+Guatemala City,http://www.wikidata.org/entity/Q1555,Q1555,Guatemala City,0.99
+Manitoba,http://www.wikidata.org/entity/Q1948,Q1948,Manitoba,0.99
+San Salvador,http://www.wikidata.org/entity/Q3110,Q3110,San Salvador,0.99
+Tegucigalpa,http://www.wikidata.org/entity/Q3238,Q3238,Tegucigalpa,0.99
+Denmark,http://www.wikidata.org/entity/Q35,Q35,Denmark,0.99
+Indonesia,http://www.wikidata.org/entity/Q252,Q252,Indonesia,0.99
+Singapore,http://www.wikidata.org/entity/Q334,Q334,Singapore,0.99
+Alberta,http://www.wikidata.org/entity/Q1951,Q1951,Alberta,0.99
+Labrador,http://www.wikidata.org/entity/Q41942,Q41942,Labrador,0.99
+Cambodia,http://www.wikidata.org/entity/Q424,Q424,Cambodia,0.99
+Guatemala,http://www.wikidata.org/entity/Q774,Q774,Guatemala,0.99
+Haiti,http://www.wikidata.org/entity/Q790,Q790,Haiti,0.99
+Laos,http://www.wikidata.org/entity/Q819,Q819,Laos,0.99
+Malaysia,http://www.wikidata.org/entity/Q833,Q833,Malaysia,0.99
+Myanmar,http://www.wikidata.org/entity/Q836,Q836,Myanmar,0.99
+Brunei,http://www.wikidata.org/entity/Q921,Q921,Brunei,0.99
+Puerto Rico,http://www.wikidata.org/entity/Q1183,Q1183,Puerto Rico,0.99
+Nova Scotia,http://www.wikidata.org/entity/Q1952,Q1952,Nova Scotia,0.99
+Saint Barthélemy,http://www.wikidata.org/entity/Q25362,Q25362,Saint Barthélemy,0.99
+Saint Martin,http://www.wikidata.org/entity/Q25596,Q25596,Saint Martin,0.99
+Bahamas,http://www.wikidata.org/entity/Q4842324,Q4842324,Bahamas,0.99
+New Brunswick,http://www.wikidata.org/entity/Q1965,Q1965,New Brunswick,0.99
+British Columbia,http://www.wikidata.org/entity/Q1973,Q1973,British Columbia,0.99
+Prince Edward Island,http://www.wikidata.org/entity/Q1978,Q1978,Prince Edward Island,0.99
+Saskatchewan,http://www.wikidata.org/entity/Q1989,Q1989,Saskatchewan,0.99
+Northwest Territories,http://www.wikidata.org/entity/Q2007,Q2007,Northwest Territories,0.99
+Virgin Islands,http://www.wikidata.org/entity/Q26262,Q26262,Virgin Islands,0.99
+Kaaba,http://www.wikidata.org/entity/Q29466,Q29466,Kaaba,0.99
+Newfoundland,http://www.wikidata.org/entity/Q48335,Q48335,Newfoundland,0.99
+Egypt,http://www.wikidata.org/entity/Q79,Q79,Egypt,0.99
+Mongolia,http://www.wikidata.org/entity/Q711,Q711,Mongolia,0.99
+Israel,http://www.wikidata.org/entity/Q801,Q801,Israel,0.99
+Kyrgyzstan,http://www.wikidata.org/entity/Q813,Q813,Kyrgyzstan,0.99
+Turkmenistan,http://www.wikidata.org/entity/Q874,Q874,Turkmenistan,0.99
+Georgia,http://www.wikidata.org/entity/Q1509291,Q1509291,Georgia,0.99
+Austria,http://www.wikidata.org/entity/Q40,Q40,Austria,0.99
+Azerbaijan,http://www.wikidata.org/entity/Q227,Q227,Azerbaijan,0.99
+Kazakhstan,http://www.wikidata.org/entity/Q232,Q232,Kazakhstan,0.99
+Iran,http://www.wikidata.org/entity/Q794,Q794,Iran,0.99
+Kuwait,http://www.wikidata.org/entity/Q817,Q817,Kuwait,0.99
+Lebanon,http://www.wikidata.org/entity/Q822,Q822,Lebanon,0.99
+India,http://www.wikidata.org/entity/Q668,Q668,India,0.99
+Laguna,http://www.wikidata.org/entity/Q228869,Q228869,Laguna,0.99
+Turkey,http://www.wikidata.org/entity/Q43,Q43,Turkey,0.99
+China,http://www.wikidata.org/entity/Q29520,Q29520,China,0.99
+Bahrain,http://www.wikidata.org/entity/Q398,Q398,Bahrain,0.99
+Iraq,http://www.wikidata.org/entity/Q796,Q796,Iraq,0.99
+Oman,http://www.wikidata.org/entity/Q842,Q842,Oman,0.99
+Qatar,http://www.wikidata.org/entity/Q846,Q846,Qatar,0.99
+Saudi Arabia,http://www.wikidata.org/entity/Q851,Q851,Saudi Arabia,0.99
+Syria,http://www.wikidata.org/entity/Q858,Q858,Syria,0.99
+Taiwan,http://www.wikidata.org/entity/Q865,Q865,Taiwan,0.99
+Japan,http://www.wikidata.org/entity/Q17,Q17,Japan,0.99
+Russia,http://www.wikidata.org/entity/Q159,Q159,Russia,0.99
+Delhi,http://www.wikidata.org/entity/Q1353,Q1353,Delhi,0.99
+Korea,http://www.wikidata.org/entity/Q18097,Q18097,Korea,0.99
+Akrotiri,http://www.wikidata.org/entity/Q295514,Q295514,Akrotiri,0.99
+Hong Kong,http://www.wikidata.org/entity/Q8646,Q8646,Hong Kong,0.99
+Kyoto,http://www.wikidata.org/entity/Q34600,Q34600,Kyoto,0.99
+Nara,http://www.wikidata.org/entity/Q36179,Q36179,Nara,0.99
+United Arab Emirates,http://www.wikidata.org/entity/Q878,Q878,United Arab Emirates,0.99
+South Korea,http://www.wikidata.org/entity/Q884,Q884,South Korea,0.99
+Tokyo,http://www.wikidata.org/entity/Q1490,Q1490,Tokyo,0.99
+Baku,http://www.wikidata.org/entity/Q9248,Q9248,Baku,0.99
+Macau,http://www.wikidata.org/entity/Q14773,Q14773,Macau,0.99
+Almaty,http://www.wikidata.org/entity/Q35493,Q35493,Almaty,0.99
+Osaka,http://www.wikidata.org/entity/Q35765,Q35765,Osaka,0.99
+Nagoya,http://www.wikidata.org/entity/Q11751,Q11751,Nagoya,0.99
+Busan,http://www.wikidata.org/entity/Q16520,Q16520,Busan,0.99
+Fukuoka,http://www.wikidata.org/entity/Q26600,Q26600,Fukuoka,0.99
+Kobe,http://www.wikidata.org/entity/Q48320,Q48320,Kobe,0.99
+Toyama,http://www.wikidata.org/entity/Q204266,Q204266,Toyama,0.99
+Miyazaki,http://www.wikidata.org/entity/Q204308,Q204308,Miyazaki,0.99
+Shiga,http://www.wikidata.org/entity/Q398052,Q398052,Shiga,0.99
+Dubai,http://www.wikidata.org/entity/Q612,Q612,Dubai,0.99
+Novosibirsk,http://www.wikidata.org/entity/Q883,Q883,Novosibirsk,0.99
+Krasnoyarsk,http://www.wikidata.org/entity/Q919,Q919,Krasnoyarsk,0.99
+Bangkok,http://www.wikidata.org/entity/Q1861,Q1861,Bangkok,0.99
+Jakarta,http://www.wikidata.org/entity/Q3630,Q3630,Jakarta,0.99
+Hiroshima,http://www.wikidata.org/entity/Q34664,Q34664,Hiroshima,0.99
+Chelyabinsk,http://www.wikidata.org/entity/Q906,Q906,Chelyabinsk,0.99
+Davao City,http://www.wikidata.org/entity/Q1473,Q1473,Davao City,0.99
+Abu Dhabi,http://www.wikidata.org/entity/Q1518,Q1518,Abu Dhabi,0.99
+Kuala Lumpur,http://www.wikidata.org/entity/Q1865,Q1865,Kuala Lumpur,0.99
+Daegu,http://www.wikidata.org/entity/Q20927,Q20927,Daegu,0.99
+Kurdistan,http://www.wikidata.org/entity/Q41470,Q41470,Kurdistan,0.99
+Saitama,http://www.wikidata.org/entity/Q134635,Q134635,Saitama,0.99
+Kawasaki,http://www.wikidata.org/entity/Q164234,Q164234,Kawasaki,0.99
+Shizuoka,http://www.wikidata.org/entity/Q174691,Q174691,Shizuoka,0.99
+Niigata,http://www.wikidata.org/entity/Q179691,Q179691,Niigata,0.99
+Kaohsiung,http://www.wikidata.org/entity/Q181557,Q181557,Kaohsiung,0.99
+Tokushima,http://www.wikidata.org/entity/Q207309,Q207309,Tokushima,0.99
+Yamaguchi,http://www.wikidata.org/entity/Q207876,Q207876,Yamaguchi,0.99
+Kagawa,http://www.wikidata.org/entity/Q394394,Q394394,Kagawa,0.99
+Angola,http://www.wikidata.org/entity/Q916,Q916,Angola,0.99
+Benin,http://www.wikidata.org/entity/Q962,Q962,Benin,0.99
+Botswana,http://www.wikidata.org/entity/Q963,Q963,Botswana,0.99
+Congo,http://www.wikidata.org/entity/Q3503,Q3503,Congo,0.99
+Seoul,http://www.wikidata.org/entity/Q8684,Q8684,Seoul,0.99
+Persia,http://www.wikidata.org/entity/Q1913014,Q1913014,Persia,0.99
+London,http://www.wikidata.org/entity/Q84,Q84,London,0.99
+Chad,http://www.wikidata.org/entity/Q657,Q657,Chad,0.99
+Burundi,http://www.wikidata.org/entity/Q967,Q967,Burundi,0.99
+Djibouti,http://www.wikidata.org/entity/Q977,Q977,Djibouti,0.99
+Taipei,http://www.wikidata.org/entity/Q1867,Q1867,Taipei,0.99
+Yangon,http://www.wikidata.org/entity/Q37995,Q37995,Yangon,0.99
+South Yemen,http://www.wikidata.org/entity/Q199841,Q199841,South Yemen,0.99
+Tehran,http://www.wikidata.org/entity/Q3616,Q3616,Tehran,0.99
+Amman,http://www.wikidata.org/entity/Q3805,Q3805,Amman,0.99
+Surabaya,http://www.wikidata.org/entity/Q11462,Q11462,Surabaya,0.99
+Yekaterinburg,http://www.wikidata.org/entity/Q887,Q887,Yekaterinburg,0.99
+Quezon City,http://www.wikidata.org/entity/Q1475,Q1475,Quezon City,0.99
+Kuwait City,http://www.wikidata.org/entity/Q35178,Q35178,Kuwait City,0.99
+Sapporo,http://www.wikidata.org/entity/Q37951,Q37951,Sapporo,0.99
+Yokohama,http://www.wikidata.org/entity/Q38283,Q38283,Yokohama,0.99
+Taoyuan,http://www.wikidata.org/entity/Q115256,Q115256,Taoyuan,0.99
+Tainan,http://www.wikidata.org/entity/Q140631,Q140631,Tainan,0.99
+Tutsi,http://www.wikidata.org/entity/Q193092,Q193092,Tutsi,0.99
+Taichung,http://www.wikidata.org/entity/Q245023,Q245023,Taichung,0.99
+Artsakh,http://www.wikidata.org/entity/Q718140,Q718140,Artsakh,0.99
+Soviet Republic,http://www.wikidata.org/entity/Q1031103,Q1031103,Soviet Republic,0.99
+Baringo County,http://www.wikidata.org/entity/Q808201,Q808201,Baringo County,0.99
+Bomet County,http://www.wikidata.org/entity/Q891952,Q891952,Bomet County,0.99
+Kwale County,http://www.wikidata.org/entity/Q952571,Q952571,Kwale County,0.99
+Bungoma County,http://www.wikidata.org/entity/Q2928204,Q2928204,Bungoma County,0.99
+Kenya,http://www.wikidata.org/entity/Q114,Q114,Kenya,0.99
+Ethiopia,http://www.wikidata.org/entity/Q115,Q115,Ethiopia,0.99
+Ghana,http://www.wikidata.org/entity/Q117,Q117,Ghana,0.99
+Tanzania,http://www.wikidata.org/entity/Q924,Q924,Tanzania,0.99
+Tunisia,http://www.wikidata.org/entity/Q948,Q948,Tunisia,0.99
+Equatorial Guinea,http://www.wikidata.org/entity/Q1006,Q1006,Guinea,0.85
+Guinea,http://www.wikidata.org/entity/Q1006,Q1006,Guinea,0.99
+Mauritania,http://www.wikidata.org/entity/Q1025,Q1025,Mauritania,0.99
+Somalia,http://www.wikidata.org/entity/Q1045,Q1045,Somalia,0.99
+Aswan,http://www.wikidata.org/entity/Q29888,Q29888,Aswan,0.99
+Gambia,http://www.wikidata.org/entity/Q1227547,Q1227547,Gambia,0.99
+Spain,http://www.wikidata.org/entity/Q29,Q29,Spain,0.99
+Portugal,http://www.wikidata.org/entity/Q45,Q45,Portugal,0.99
+Liberia,http://www.wikidata.org/entity/Q1014,Q1014,Liberia,0.99
+Morocco,http://www.wikidata.org/entity/Q1028,Q1028,Morocco,0.99
+Luxor,http://www.wikidata.org/entity/Q130514,Q130514,Luxor,0.99
+Cairo,http://www.wikidata.org/entity/Q85,Q85,Cairo,0.99
+Zambia,http://www.wikidata.org/entity/Q953,Q953,Zambia,0.99
+Zimbabwe,http://www.wikidata.org/entity/Q954,Q954,Zimbabwe,0.99
+Uganda,http://www.wikidata.org/entity/Q1036,Q1036,Uganda,0.99
+Nakuru,http://www.wikidata.org/entity/Q239421,Q239421,Nakuru,0.99
+Kajiado County,http://www.wikidata.org/entity/Q285072,Q285072,Kajiado County,0.99
+Minya,http://www.wikidata.org/entity/Q310117,Q310117,Minya,0.99
+Busia County,http://www.wikidata.org/entity/Q1017519,Q1017519,Busia County,0.99
+Mombasa County,http://www.wikidata.org/entity/Q1112885,Q1112885,Mombasa County,0.99
+Marsabit County,http://www.wikidata.org/entity/Q1323683,Q1323683,Marsabit County,0.99
+Mandera County,http://www.wikidata.org/entity/Q1477874,Q1477874,Mandera County,0.99
+Isiolo County,http://www.wikidata.org/entity/Q1499046,Q1499046,Isiolo County,0.99
+Nyandarua,http://www.wikidata.org/entity/Q1714352,Q1714352,Nyandarua County,0.85
+Nyandarua County,http://www.wikidata.org/entity/Q1714352,Q1714352,Nyandarua County,0.99
+Kakamega County,http://www.wikidata.org/entity/Q1721867,Q1721867,Kakamega County,0.99
+Kitui County,http://www.wikidata.org/entity/Q1722597,Q1722597,Kitui County,0.99
+Kericho County,http://www.wikidata.org/entity/Q1739252,Q1739252,Kericho County,0.99
+Kilifi County,http://www.wikidata.org/entity/Q1741307,Q1741307,Kilifi County,0.99
+Kisii County,http://www.wikidata.org/entity/Q1743730,Q1743730,Kisii County,0.99
+Kisumu County,http://www.wikidata.org/entity/Q1743809,Q1743809,Kisumu County,0.99
+Laikipia County,http://www.wikidata.org/entity/Q1800699,Q1800699,Laikipia County,0.99
+Nakuru County,http://www.wikidata.org/entity/Q1852202,Q1852202,Nakuru County,0.99
+Machakos County,http://www.wikidata.org/entity/Q1882639,Q1882639,Machakos County,0.99
+Kiambu County,http://www.wikidata.org/entity/Q2575594,Q2575594,Kiambu County,0.99
+Ivory Coast,http://www.wikidata.org/entity/Q1008,Q1008,Ivory Coast,0.99
+Libya,http://www.wikidata.org/entity/Q1016,Q1016,Libya,0.99
+Rwanda,http://www.wikidata.org/entity/Q1037,Q1037,Rwanda,0.99
+Sudan,http://www.wikidata.org/entity/Q1049,Q1049,Sudan,0.99
+Kinshasa,http://www.wikidata.org/entity/Q3838,Q3838,Kinshasa,0.99
+Yoruba,http://www.wikidata.org/entity/Q34311,Q34311,Yoruba,0.99
+Rhodesia,http://www.wikidata.org/entity/Q217169,Q217169,Rhodesia,0.99
+Casablanca,http://www.wikidata.org/entity/Q5047973,Q5047973,Casablanca,0.99
+Addis Ababa,http://www.wikidata.org/entity/Q3624,Q3624,Addis Ababa,0.99
+Lozi,http://www.wikidata.org/entity/Q33628,Q33628,Lozi,0.99
+Kanuri,http://www.wikidata.org/entity/Q36094,Q36094,Kanuri,0.99
+Puntland,http://www.wikidata.org/entity/Q485112,Q485112,Puntland,0.99
+West Pokot County,http://www.wikidata.org/entity/Q590860,Q590860,West Pokot County,0.99
+Gbarpolu County,http://www.wikidata.org/entity/Q592251,Q592251,Gbarpolu County,0.99
+Kano State,http://www.wikidata.org/entity/Q682571,Q682571,Kano State,0.99
+Nyeri County,http://www.wikidata.org/entity/Q749665,Q749665,Nyeri County,0.99
+Bomi County,http://www.wikidata.org/entity/Q844127,Q844127,Bomi County,0.99
+Montserrado County,http://www.wikidata.org/entity/Q862608,Q862608,Montserrado County,0.99
+Lofa County,http://www.wikidata.org/entity/Q870130,Q870130,Lofa County,0.99
+Maryland County,http://www.wikidata.org/entity/Q870138,Q870138,Maryland County,0.99
+Bong County,http://www.wikidata.org/entity/Q877578,Q877578,Bong County,0.99
+Zimbabwe Rhodesia,http://www.wikidata.org/entity/Q890120,Q890120,Zimbabwe Rhodesia,0.99
+Sinoe County,http://www.wikidata.org/entity/Q1043644,Q1043644,Sinoe County,0.99
+Margibi County,http://www.wikidata.org/entity/Q1052737,Q1052737,Margibi County,0.99
+Uasin Gishu County,http://www.wikidata.org/entity/Q1121429,Q1121429,Uasin Gishu County,0.99
+Vihiga County,http://www.wikidata.org/entity/Q1313202,Q1313202,Vihiga County,0.99
+Turkana County,http://www.wikidata.org/entity/Q1633078,Q1633078,Turkana County,0.99
+Wajir County,http://www.wikidata.org/entity/Q1852209,Q1852209,Wajir County,0.99
+Samburu County,http://www.wikidata.org/entity/Q2096419,Q2096419,Samburu County,0.99
+Hirshabelle,http://www.wikidata.org/entity/Q30322863,Q30322863,Hirshabelle,0.99
+Alexandria,http://www.wikidata.org/entity/Q87,Q87,Alexandria,0.99
+South Africa,http://www.wikidata.org/entity/Q258,Q258,South Africa,0.99
+Nigeria,http://www.wikidata.org/entity/Q1033,Q1033,Nigeria,0.99
+Samburu,http://www.wikidata.org/entity/Q56536,Q56536,Samburu,0.99
+Norway,http://www.wikidata.org/entity/Q20,Q20,Norway,0.99
+Hungary,http://www.wikidata.org/entity/Q28,Q28,Hungary,0.99
+Belgium,http://www.wikidata.org/entity/Q31,Q31,Belgium,0.99
+Finland,http://www.wikidata.org/entity/Q33,Q33,Finland,0.99
+Iceland,http://www.wikidata.org/entity/Q189,Q189,Iceland,0.99
+Bulgaria,http://www.wikidata.org/entity/Q219,Q219,Bulgaria,0.99
+Croatia,http://www.wikidata.org/entity/Q224,Q224,Croatia,0.99
+Albania,http://www.wikidata.org/entity/Q222,Q222,Albania,0.99
+Algeria,http://www.wikidata.org/entity/Q262,Q262,Algeria,0.99
+Catalonia,http://www.wikidata.org/entity/Q5705,Q5705,Catalonia,0.99
+Bosnia and,http://www.wikidata.org/entity/Q188736,Q188736,Bosnia,0.85
+Bosnia and Herzegovina,http://www.wikidata.org/entity/Q188736,Q188736,Bosnia,0.85
+Bosnia,http://www.wikidata.org/entity/Q188736,Q188736,Bosnia,0.99
+Anthem,http://www.wikidata.org/entity/Q298906,Q298906,Anthem,0.99
+Luxembourg,http://www.wikidata.org/entity/Q32,Q32,Luxembourg,0.99
+Poland,http://www.wikidata.org/entity/Q36,Q36,Poland,0.99
+Paris,http://www.wikidata.org/entity/Q90,Q90,Paris,0.99
+Estonia,http://www.wikidata.org/entity/Q191,Q191,Estonia,0.99
+Bohemia,http://www.wikidata.org/entity/Q39193,Q39193,Bohemia,0.99
+Ireland,http://www.wikidata.org/entity/Q27,Q27,Ireland,0.99
+Italy,http://www.wikidata.org/entity/Q38,Q38,Italy,0.99
+Romania,http://www.wikidata.org/entity/Q218,Q218,Romania,0.99
+Monaco,http://www.wikidata.org/entity/Q235,Q235,Monaco,0.99
+Guernsey,http://www.wikidata.org/entity/Q25230,Q25230,Guernsey,0.99
+Saint Andrew,http://www.wikidata.org/entity/Q131051,Q131051,Saint Andrew,0.99
+Jersey,http://www.wikidata.org/entity/Q347430,Q347430,Jersey,0.99
+Sweden,http://www.wikidata.org/entity/Q34,Q34,Sweden,0.99
+Lithuania,http://www.wikidata.org/entity/Q37,Q37,Lithuania,0.99
+Switzerland,http://www.wikidata.org/entity/Q39,Q39,Switzerland,0.99
+Latvia,http://www.wikidata.org/entity/Q211,Q211,Latvia,0.99
+Ukraine,http://www.wikidata.org/entity/Q212,Q212,Ukraine,0.99
+Slovenia,http://www.wikidata.org/entity/Q215,Q215,Slovenia,0.99
+Montenegro,http://www.wikidata.org/entity/Q236,Q236,Montenegro,0.99
+Serbia,http://www.wikidata.org/entity/Q403,Q403,Serbia,0.99
+Navarre,http://www.wikidata.org/entity/Q4018,Q4018,Navarre,0.99
+England,http://www.wikidata.org/entity/Q21,Q21,England,0.99
+Malta,http://www.wikidata.org/entity/Q233,Q233,Malta,0.99
+Brittany,http://www.wikidata.org/entity/Q327,Q327,Brittany,0.99
+Kosovo,http://www.wikidata.org/entity/Q1231,Q1231,Kosovo,0.99
+Macedonia,http://www.wikidata.org/entity/Q39702,Q39702,Macedonia,0.99
+Herzegovina,http://www.wikidata.org/entity/Q189863,Q189863,Herzegovina,0.99
+Scotland,http://www.wikidata.org/entity/Q22,Q22,Scotland,0.99
+Wales,http://www.wikidata.org/entity/Q25,Q25,Wales,0.99
+Åland,http://www.wikidata.org/entity/Q5689,Q5689,Åland,0.99
+Germany,http://www.wikidata.org/entity/Q183,Q183,Germany,0.99
+Hydra,http://www.wikidata.org/entity/Q10578,Q10578,Hydra,0.99
+Norman,http://www.wikidata.org/entity/Q33850,Q33850,Norman,0.99
+Macedon,http://www.wikidata.org/entity/Q1121864,Q1121864,Macedon,0.99
+Maine,http://www.wikidata.org/entity/Q724,Q724,Maine,0.99
+Piedmont,http://www.wikidata.org/entity/Q1216,Q1216,Piedmont,0.99
+West Berlin,http://www.wikidata.org/entity/Q64,Q64,Berlin,0.85
+Berlin,http://www.wikidata.org/entity/Q64,Q64,Berlin,0.99
+Hamburg,http://www.wikidata.org/entity/Q1055,Q1055,Hamburg,0.99
+Hesse,http://www.wikidata.org/entity/Q1199,Q1199,Hesse,0.99
+Campania,http://www.wikidata.org/entity/Q1438,Q1438,Campania,0.99
+Zeeland,http://www.wikidata.org/entity/Q705,Q705,Zeeland,0.99
+Munster,http://www.wikidata.org/entity/Q21729,Q21729,Munster,0.99
+North Holland,http://www.wikidata.org/entity/Q79591,Q79591,Holland,0.85
+Holland,http://www.wikidata.org/entity/Q79591,Q79591,Holland,0.99
+Geneva,http://www.wikidata.org/entity/Q71,Q71,Geneva,0.99
+Edinburgh,http://www.wikidata.org/entity/Q23436,Q23436,Edinburgh,0.99
+Glasgow,http://www.wikidata.org/entity/Q1871967,Q1871967,Glasgow,0.99
+Dublin,http://www.wikidata.org/entity/Q1761,Q1761,Dublin,0.99
+Munich,http://www.wikidata.org/entity/Q1726,Q1726,Munich,0.99
+Andalusia,http://www.wikidata.org/entity/Q5783,Q5783,Andalusia,0.99
+the Komi Republic,http://www.wikidata.org/entity/Q36126,Q36126,Komi,0.85
+Komi,http://www.wikidata.org/entity/Q36126,Q36126,Komi,0.99
+the Kingdom of León,http://www.wikidata.org/entity/Q425659,Q425659,Kingdom,0.85
+the Kingdom of Castile,http://www.wikidata.org/entity/Q425659,Q425659,Kingdom,0.85
+the Kingdom of Galicia,http://www.wikidata.org/entity/Q425659,Q425659,Kingdom,0.85
+Kingdom,http://www.wikidata.org/entity/Q425659,Q425659,Kingdom,0.99
+Belarus,http://www.wikidata.org/entity/Q184,Q184,Belarus,0.99
+Czech Republic,http://www.wikidata.org/entity/Q213,Q213,Czech Republic,0.99
+Slovakia,http://www.wikidata.org/entity/Q214,Q214,Slovakia,0.99
+Sofia,http://www.wikidata.org/entity/Q472,Q472,Sofia,0.99
+Barcelona,http://www.wikidata.org/entity/Q1492,Q1492,Barcelona,0.99
+Rome,http://www.wikidata.org/entity/Q220,Q220,Rome,0.99
+Cologne,http://www.wikidata.org/entity/Q365,Q365,Cologne,0.99
+Moscow Municipality,http://www.wikidata.org/entity/Q649,Q649,Moscow,0.85
+Moscow,http://www.wikidata.org/entity/Q649,Q649,Moscow,0.99
+Bucharest,http://www.wikidata.org/entity/Q19660,Q19660,Bucharest,0.99
+Liechtenstein,http://www.wikidata.org/entity/Q347,Q347,Liechtenstein,0.99
+Peru,http://www.wikidata.org/entity/Q419,Q419,Peru,0.99
+Ecuador,http://www.wikidata.org/entity/Q736,Q736,Ecuador,0.99
+Dominica,http://www.wikidata.org/entity/Q784,Q784,Dominica,0.99
+Cameroon,http://www.wikidata.org/entity/Q1009,Q1009,Cameroon,0.99
+Senegal,http://www.wikidata.org/entity/Q1041,Q1041,Senegal,0.99
+width,http://www.wikidata.org/entity/Q35059,Q35059,width,0.99
+USSR,http://www.wikidata.org/entity/Q446861,Q446861,USSR,0.99
+Genoa,http://www.wikidata.org/entity/Q5533428,Q5533428,Genoa,0.99
+Moldova,http://www.wikidata.org/entity/Q217,Q217,Moldova,0.99
+Hawaii,http://www.wikidata.org/entity/Q782,Q782,Hawaii,0.99
+Mali,http://www.wikidata.org/entity/Q912,Q912,Mali,0.99
+Ukrainian,http://www.wikidata.org/entity/Q8798,Q8798,Ukrainian,0.99
+Great Britain,http://www.wikidata.org/entity/Q23666,Q23666,Great Britain,0.99
+Ottoman Empire,http://www.wikidata.org/entity/Q12560,Q12560,Ottoman Empire,0.99
+Russian Empire,http://www.wikidata.org/entity/Q34266,Q34266,Russian Empire,0.99
+German Empire,http://www.wikidata.org/entity/Q43287,Q43287,German Empire,0.99
+People's Republic of Bulgaria,http://www.wikidata.org/entity/Q121932,Q121932,People's Republic of Bulgaria,0.99
+Kingdom of Cyprus,http://www.wikidata.org/entity/Q213638,Q213638,Kingdom of Cyprus,0.99
+Kingdom of Serbia,http://www.wikidata.org/entity/Q241748,Q241748,Kingdom of Serbia,0.99
+Danzig,http://www.wikidata.org/entity/Q246734,Q246734,Danzig,0.99
+Volgograd,http://www.wikidata.org/entity/Q914,Q914,Volgograd,0.99
+Leipzig,http://www.wikidata.org/entity/Q2079,Q2079,Leipzig,0.99
+Voronezh,http://www.wikidata.org/entity/Q3426,Q3426,Voronezh,0.99
+Nordic,http://www.wikidata.org/entity/Q356141,Q356141,Nordic,0.99
+Venice,http://www.wikidata.org/entity/Q641,Q641,Venice,0.99
+Nazi Germany,http://www.wikidata.org/entity/Q7318,Q7318,Nazi Germany,0.99
+Yugoslavia,http://www.wikidata.org/entity/Q36704,Q36704,Yugoslavia,0.99
+Pakistan,http://www.wikidata.org/entity/Q843,Q843,Pakistan,0.99
+Wisconsin,http://www.wikidata.org/entity/Q1537,Q1537,Wisconsin,0.99
+the United States of America,http://www.wikidata.org/entity/Q34195,Q34195,America,0.85
+America,http://www.wikidata.org/entity/Q34195,Q34195,America,0.99
+Holly,http://www.wikidata.org/entity/Q295164,Q295164,Holly,0.99
+ROC,http://www.wikidata.org/entity/Q10648236,Q10648236,ROC,0.99
+Orange,http://www.wikidata.org/entity/Q187796,Q187796,Orange,0.99
+Honor,http://www.wikidata.org/entity/Q420161,Q420161,Honor,0.99
+Argentina,http://www.wikidata.org/entity/Q414,Q414,Argentina,0.99
+Florida,http://www.wikidata.org/entity/Q812,Q812,Florida,0.99
+Columbus,http://www.wikidata.org/entity/Q16567,Q16567,Columbus,0.99
+Pike County,http://www.wikidata.org/entity/Q61202,Q61202,Pike County,0.99
+Benin Empire,http://www.wikidata.org/entity/Q171203,Q171203,Benin Empire,0.99
+Sharjah,http://www.wikidata.org/entity/Q289693,Q289693,Sharjah,0.99
+San Francisco,http://www.wikidata.org/entity/Q20138487,Q20138487,San Francisco,0.99
+Toronto,http://www.wikidata.org/entity/Q172,Q172,Toronto,0.99
+Madagascar,http://www.wikidata.org/entity/Q1019,Q1019,Madagascar,0.99
+Lorraine,http://www.wikidata.org/entity/Q1137,Q1137,Lorraine,0.99
+Chicago,http://www.wikidata.org/entity/Q1297,Q1297,Chicago,0.99
+Clifford,http://www.wikidata.org/entity/Q232560,Q232560,Clifford,0.99
+Kimigayo,http://www.wikidata.org/entity/Q81534,Q81534,Kimigayo,0.99
+Okinawa,http://www.wikidata.org/entity/Q766445,Q766445,Okinawa Prefecture,0.85
+Okinawa Prefecture,http://www.wikidata.org/entity/Q766445,Q766445,Okinawa Prefecture,0.99
+Palau,http://www.wikidata.org/entity/Q695,Q695,Palau,0.99
+Pearl Harbor,http://www.wikidata.org/entity/Q127091,Q127091,Pearl Harbor,0.99
+Ripley,http://www.wikidata.org/entity/Q170648,Q170648,Ripley,0.99
+Sera,http://www.wikidata.org/entity/Q405325,Q405325,Sera,0.99
+Hugh,http://www.wikidata.org/entity/Q920516,Q920516,Hugh,0.99
+Delaware,http://www.wikidata.org/entity/Q1393,Q1393,Delaware,0.99
+New Jersey,http://www.wikidata.org/entity/Q1408,Q1408,New Jersey,0.99
+Scorpius,http://www.wikidata.org/entity/Q8865,Q8865,Scorpius,0.99
+the Kingdom of Portugal,http://www.wikidata.org/entity/Q36732,Q36732,kingdom,0.85
+kingdom,http://www.wikidata.org/entity/Q36732,Q36732,kingdom,0.99
+Ricardo,http://www.wikidata.org/entity/Q230713,Q230713,Ricardo,0.99
+Santa Catarina,http://www.wikidata.org/entity/Q6120291,Q6120291,Santa Catarina,0.99
+Philadelphia,http://www.wikidata.org/entity/Q1345,Q1345,Philadelphia,0.99
+Atria,http://www.wikidata.org/entity/Q728274,Q728274,Atria,0.99
+Massachusetts,http://www.wikidata.org/entity/Q771,Q771,Massachusetts,0.99
+Washington,http://www.wikidata.org/entity/Q1223,Q1223,Washington,0.99
+Brasília,http://www.wikidata.org/entity/Q2844,Q2844,Brasília,0.99
+Rio de Janeiro,http://www.wikidata.org/entity/Q8678,Q8678,Rio de Janeiro,0.99
+Silva,http://www.wikidata.org/entity/Q230163,Q230163,Silva,0.99
+Stephen,http://www.wikidata.org/entity/Q316006,Q316006,Stephen,0.99
+Virginia,http://www.wikidata.org/entity/Q1370,Q1370,Virginia,0.99
+Tennessee,http://www.wikidata.org/entity/Q1509,Q1509,Tennessee,0.99
+South Dakota,http://www.wikidata.org/entity/Q1211,Q1211,South Dakota,0.99
+Montana,http://www.wikidata.org/entity/Q1212,Q1212,Montana,0.99
+Arkansas,http://www.wikidata.org/entity/Q1612,Q1612,Arkansas,0.99
+Shanghai,http://www.wikidata.org/entity/Q8686,Q8686,Shanghai,0.99
+Arizona,http://www.wikidata.org/entity/Q816,Q816,Arizona,0.99
+Nebraska,http://www.wikidata.org/entity/Q1553,Q1553,Nebraska,0.99
+Gemini,http://www.wikidata.org/entity/Q8923,Q8923,Gemini,0.99
+Iowa,http://www.wikidata.org/entity/Q1546,Q1546,Iowa,0.99
+Missouri,http://www.wikidata.org/entity/Q1581,Q1581,Missouri,0.99
+Nevada,http://www.wikidata.org/entity/Q1227,Q1227,Nevada,0.99
+Stockholm,http://www.wikidata.org/entity/Q1754,Q1754,Stockholm,0.99
+Alaska,http://www.wikidata.org/entity/Q797,Q797,Alaska,0.99
+Wyoming,http://www.wikidata.org/entity/Q1214,Q1214,Wyoming,0.99
+Kentucky,http://www.wikidata.org/entity/Q1603,Q1603,Kentucky,0.99
+Springfield,http://www.wikidata.org/entity/Q28515,Q28515,Springfield,0.99
+Princeton,http://www.wikidata.org/entity/Q224442,Q224442,Princeton,0.99
+Gettysburg,http://www.wikidata.org/entity/Q123166,Q123166,Gettysburg,0.99
+Hanna,http://www.wikidata.org/entity/Q170268,Q170268,Hanna,0.99
+Winston,http://www.wikidata.org/entity/Q171494,Q171494,Winston,0.99
+Colton,http://www.wikidata.org/entity/Q348192,Q348192,Colton,0.99
+Archives,http://www.wikidata.org/entity/Q2305859,Q2305859,Archives,0.99
+Nashville,http://www.wikidata.org/entity/Q23197,Q23197,Nashville,0.99
+Concord,http://www.wikidata.org/entity/Q28249,Q28249,Concord,0.99
+Sri Lanka,http://www.wikidata.org/entity/Q854,Q854,Sri Lanka,0.99
+Gibraltar,http://www.wikidata.org/entity/Q1410,Q1410,Gibraltar,0.99
+Sydney,http://www.wikidata.org/entity/Q3130,Q3130,Sydney,0.99
+Dutch,http://www.wikidata.org/entity/Q7411,Q7411,Dutch,0.99
+Baton Rouge,http://www.wikidata.org/entity/Q28218,Q28218,Baton Rouge,0.99
+British Empire,http://www.wikidata.org/entity/Q8680,Q8680,British Empire,0.99
+Bilbao,http://www.wikidata.org/entity/Q8692,Q8692,Bilbao,0.99
+Somaliland,http://www.wikidata.org/entity/Q34754,Q34754,Somaliland,0.99
+Waitangi,http://www.wikidata.org/entity/Q422840,Q422840,Waitangi,0.99
+Weymouth Township,http://www.wikidata.org/entity/Q993608,Q993608,Weymouth Township,0.99
+Ngāpuhi,http://www.wikidata.org/entity/Q1283558,Q1283558,Ngāpuhi,0.99
+Basutoland,http://www.wikidata.org/entity/Q2340665,Q2340665,Basutoland,0.99
+Weoley Castle,http://www.wikidata.org/entity/Q7983099,Q7983099,Weoley Castle,0.99
+Pretoria,http://www.wikidata.org/entity/Q3926,Q3926,Pretoria,0.99
+St George,http://www.wikidata.org/entity/Q427374,Q427374,St George,0.99
+Lagos,http://www.wikidata.org/entity/Q820969,Q820969,Lagos,0.99
+St. Andrew,http://www.wikidata.org/entity/Q1040644,Q1040644,St. Andrew,0.99
+Burma,http://www.wikidata.org/entity/Q2928516,Q2928516,Burma,0.99
+Taunton,http://www.wikidata.org/entity/Q127506,Q127506,Taunton,0.99
+Aden,http://www.wikidata.org/entity/Q131694,Q131694,Aden,0.99
+Penang,http://www.wikidata.org/entity/Q188096,Q188096,Penang,0.99
+St. Patrick,http://www.wikidata.org/entity/Q1041132,Q1041132,St. Patrick,0.99
+Remembrance,http://www.wikidata.org/entity/Q1157117,Q1157117,Remembrance,0.99
+Barbados,http://www.wikidata.org/entity/Q244,Q244,Barbados,0.99
+Grenada,http://www.wikidata.org/entity/Q769,Q769,Grenada,0.99
+Sierra Leone,http://www.wikidata.org/entity/Q1044,Q1044,Sierra Leone,0.99
+Coquimbo,http://www.wikidata.org/entity/Q3871,Q3871,Coquimbo,0.99
+British Virgin Islands,http://www.wikidata.org/entity/Q25305,Q25305,British Virgin Islands,0.99
+Niue,http://www.wikidata.org/entity/Q34020,Q34020,Niue,0.99
+Queensland,http://www.wikidata.org/entity/Q36074,Q36074,Queensland,0.99
+Prussia,http://www.wikidata.org/entity/Q38872,Q38872,Prussia,0.99
+Tobago,http://www.wikidata.org/entity/Q185111,Q185111,Tobago,0.99
+Labuan,http://www.wikidata.org/entity/Q214504,Q214504,Labuan,0.99
+Belfast,http://www.wikidata.org/entity/Q10686,Q10686,Belfast,0.99
+Oasis,http://www.wikidata.org/entity/Q227537,Q227537,Oasis,0.99
+Montreal,http://www.wikidata.org/entity/Q340,Q340,Montreal,0.99
+Beijing,http://www.wikidata.org/entity/Q956,Q956,Beijing,0.99
+Tibetan,http://www.wikidata.org/entity/Q34271,Q34271,Tibetan,0.99
+Manchu,http://www.wikidata.org/entity/Q81126,Q81126,Manchuria,0.85
+Manchuria,http://www.wikidata.org/entity/Q81126,Q81126,Manchuria,0.99
+Beaumont,http://www.wikidata.org/entity/Q95100,Q95100,Beaumont,0.99
+Ottawa,http://www.wikidata.org/entity/Q1930,Q1930,Ottawa,0.99
+Quebec City,http://www.wikidata.org/entity/Q2145,Q2145,Quebec City,0.99
+Wuhan,http://www.wikidata.org/entity/Q11746,Q11746,Wuhan,0.99
+Nanjing,http://www.wikidata.org/entity/Q16666,Q16666,Nanjing,0.99
+Kingston,http://www.wikidata.org/entity/Q30963,Q30963,Kingston,0.99
+Bolsheviks,http://www.wikidata.org/entity/Q83372,Q83372,Bolsheviks,0.99
+Vasai,http://www.wikidata.org/entity/Q1949022,Q1949022,Vasai,0.99
+satya,http://www.wikidata.org/entity/Q2317397,Q2317397,satya,0.99
+Kapoor,http://www.wikidata.org/entity/Q4213257,Q4213257,Kapoor,0.99
+Borivali,http://www.wikidata.org/entity/Q4945504,Q4945504,Borivali,0.99
+Garag,http://www.wikidata.org/entity/Q5521857,Q5521857,Garag,0.99
+Tonga,http://www.wikidata.org/entity/Q678,Q678,Tonga,0.99
+Hindi,http://www.wikidata.org/entity/Q1568,Q1568,Hindi,0.99
+Melbourne,http://www.wikidata.org/entity/Q3141,Q3141,Melbourne,0.99
+Devanagari,http://www.wikidata.org/entity/Q38592,Q38592,Devanagari,0.99
+Australasia,http://www.wikidata.org/entity/Q45256,Q45256,Australasia,0.99
+Maidenhead,http://www.wikidata.org/entity/Q238803,Q238803,Maidenhead,0.99
+Bauhinia,http://www.wikidata.org/entity/Q287313,Q287313,Bauhinia,0.99
+Macao,http://www.wikidata.org/entity/Q1100979,Q1100979,Macao,0.99
+Durham,http://www.wikidata.org/entity/Q48834175,Q48834175,Durham,0.99
+New Delhi,http://www.wikidata.org/entity/Q987,Q987,New Delhi,0.99
+White,http://www.wikidata.org/entity/Q225053,Q225053,White,0.99
+Chennai,http://www.wikidata.org/entity/Q1352,Q1352,Chennai,0.99
+Xi'an,http://www.wikidata.org/entity/Q5826,Q5826,Xi'an,0.99
+Walton,http://www.wikidata.org/entity/Q40201,Q40201,Walton,0.99
+Bengal,http://www.wikidata.org/entity/Q80338,Q80338,Bengal,0.99
+Gwalior,http://www.wikidata.org/entity/Q158467,Q158467,Gwalior,0.99
+Tian,http://www.wikidata.org/entity/Q1364799,Q1364799,Tian,0.99
+Ashoka,http://www.wikidata.org/entity/Q8589,Q8589,Ashoka,0.99
+Zhejiang,http://www.wikidata.org/entity/Q16967,Q16967,Zhejiang,0.99
+Wenzhou,http://www.wikidata.org/entity/Q42635,Q42635,Wenzhou,0.99
+Shandong,http://www.wikidata.org/entity/Q43407,Q43407,Shandong,0.99
+Centre,http://www.wikidata.org/entity/Q79650,Q79650,Centre,0.99
+Arundhati,http://www.wikidata.org/entity/Q2992957,Q2992957,Arundhati,0.99
+Victoria,http://www.wikidata.org/entity/Q2621166,Q2621166,Victoria,0.99
+Milan,http://www.wikidata.org/entity/Q490,Q490,Milan,0.99
+Emilia,http://www.wikidata.org/entity/Q251222,Q251222,Emilia,0.99
+Parkes,http://www.wikidata.org/entity/Q423403,Q423403,Parkes,0.99
+Baden,http://www.wikidata.org/entity/Q63939,Q63939,Baden,0.99
+Emperor,http://www.wikidata.org/entity/Q264029,Q264029,Emperor,0.99
+North Sydney,http://www.wikidata.org/entity/Q422891,Q422891,North Sydney,0.99
+Bremen,http://www.wikidata.org/entity/Q1209,Q1209,Bremen,0.99
+Perth,http://www.wikidata.org/entity/Q3183,Q3183,Perth,0.99
+San Martino,http://www.wikidata.org/entity/Q403709,Q403709,San Martino,0.99
+Trieste,http://www.wikidata.org/entity/Q546,Q546,Trieste,0.99
+Eritrea,http://www.wikidata.org/entity/Q986,Q986,Eritrea,0.99
+Verona,http://www.wikidata.org/entity/Q2028,Q2028,Verona,0.99
+Trento,http://www.wikidata.org/entity/Q3376,Q3376,Trento,0.99
+Forlì,http://www.wikidata.org/entity/Q13367,Q13367,Forlì,0.99
+Ghibellines,http://www.wikidata.org/entity/Q1010181,Q1010181,Ghibellines,0.99
+San Giusto,http://www.wikidata.org/entity/Q2219641,Q2219641,San Giusto,0.99
+Mantua,http://www.wikidata.org/entity/Q6247,Q6247,Mantua,0.99
+Granada,http://www.wikidata.org/entity/Q8810,Q8810,Granada,0.99
+Republic of Lucca,http://www.wikidata.org/entity/Q13373,Q13373,Lucca,0.85
+Lucca,http://www.wikidata.org/entity/Q13373,Q13373,Lucca,0.99
+Umbria,http://www.wikidata.org/entity/Q1280,Q1280,Umbria,0.99
+Gorizia,http://www.wikidata.org/entity/Q6596,Q6596,Gorizia,0.99
+Vittoria,http://www.wikidata.org/entity/Q34130,Q34130,Vittoria,0.99
+Porta,http://www.wikidata.org/entity/Q198196,Q198196,Porta,0.99
+Castelnuovo,http://www.wikidata.org/entity/Q265003,Q265003,Castelnuovo,0.99
+the Kingdom of Lombardy–Venetia,http://www.wikidata.org/entity/Q1210,Q1210,Lombardy,0.85
+Lombardy,http://www.wikidata.org/entity/Q1210,Q1210,Lombardy,0.99
+Tuscany,http://www.wikidata.org/entity/Q1273,Q1273,Tuscany,0.99
+Lazio,http://www.wikidata.org/entity/Q1282,Q1282,Lazio,0.99
+Abruzzo,http://www.wikidata.org/entity/Q1284,Q1284,Abruzzo,0.99
+Udine,http://www.wikidata.org/entity/Q2790,Q2790,Udine,0.99
+Belluno,http://www.wikidata.org/entity/Q6558,Q6558,Belluno,0.99
+Trentino,http://www.wikidata.org/entity/Q16289,Q16289,Trentino,0.99
+the Roman Republic,http://www.wikidata.org/entity/Q17167,Q17167,Roman Republic,0.85
+Roman Republic,http://www.wikidata.org/entity/Q17167,Q17167,Roman Republic,0.99
+Melegnano,http://www.wikidata.org/entity/Q42932,Q42932,Melegnano,0.99
+Piombino,http://www.wikidata.org/entity/Q157824,Q157824,Piombino,0.99
+Modena,http://www.wikidata.org/entity/Q279,Q279,Modena,0.99
+Sardinia,http://www.wikidata.org/entity/Q1462,Q1462,Sardinia,0.99
+Catania,http://www.wikidata.org/entity/Q1903,Q1903,Catania,0.99
+Naples,http://www.wikidata.org/entity/Q2634,Q2634,Naples,0.99
+Brescia,http://www.wikidata.org/entity/Q6221,Q6221,Brescia,0.99
+Foggia,http://www.wikidata.org/entity/Q13464,Q13464,Foggia,0.99
+Venezia,http://www.wikidata.org/entity/Q2512867,Q2512867,Venezia,0.99
+Turin,http://www.wikidata.org/entity/Q495,Q495,Turin,0.99
+Assisi,http://www.wikidata.org/entity/Q20103,Q20103,Assisi,0.99
+Italia,http://www.wikidata.org/entity/Q233567,Q233567,Italia,0.99
+Roquebrune,http://www.wikidata.org/entity/Q249851,Q249851,Roquebrune,0.99
+Rovereto,http://www.wikidata.org/entity/Q279373,Q279373,Rovereto,0.99
+Solferino,http://www.wikidata.org/entity/Q42788,Q42788,Solferino,0.99
+Menton,http://www.wikidata.org/entity/Q180083,Q180083,Menton,0.99
+Marsala,http://www.wikidata.org/entity/Q359249,Q359249,Marsala,0.99
+Piazza,http://www.wikidata.org/entity/Q422160,Q422160,Piazza,0.99
+Saint Mark,http://www.wikidata.org/entity/Q526195,Q526195,Saint Mark,0.99
+Pinerolo,http://www.wikidata.org/entity/Q9573,Q9573,Pinerolo,0.99
+Sanluri,http://www.wikidata.org/entity/Q13656,Q13656,Sanluri,0.99
+Carabinieri,http://www.wikidata.org/entity/Q54852,Q54852,Carabinieri,0.99
+Magyar,http://www.wikidata.org/entity/Q398056,Q398056,Magyar,0.99
+Stampa,http://www.wikidata.org/entity/Q688507,Q688507,Stampa,0.99
+Regio,http://www.wikidata.org/entity/Q2138147,Q2138147,Regio,0.99

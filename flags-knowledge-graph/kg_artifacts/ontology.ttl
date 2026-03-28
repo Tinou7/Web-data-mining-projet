@@ -1,0 +1,56 @@
+@prefix flags: <http://flags-kg.org/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+flags:adoptedIn a owl:ObjectProperty ;
+    rdfs:label "adoptedIn"@en ;
+    rdfs:domain flags:Flag ;
+    rdfs:range flags:Date .
+
+flags:affiliatedWith a owl:ObjectProperty ;
+    rdfs:label "affiliatedWith"@en ;
+    rdfs:domain flags:Organization ;
+    rdfs:range flags:GeopoliticalEntity .
+
+flags:entityType a owl:DatatypeProperty .
+
+flags:hasFlag a owl:ObjectProperty ;
+    rdfs:label "hasFlag"@en ;
+    rdfs:domain flags:GeopoliticalEntity ;
+    rdfs:range flags:Flag .
+
+flags:hasSymbol a owl:ObjectProperty ;
+    rdfs:label "hasSymbol"@en ;
+    rdfs:domain flags:Flag ;
+    rdfs:range flags:Symbol .
+
+flags:locatedIn a owl:ObjectProperty ;
+    rdfs:label "locatedIn"@en ;
+    rdfs:domain flags:Country ;
+    rdfs:range flags:Continent .
+
+flags:sourceURL a owl:DatatypeProperty ;
+    rdfs:range xsd:anyURI .
+
+flags:Continent a owl:Class ;
+    rdfs:label "Continent"@en .
+
+flags:Country a owl:Class ;
+    rdfs:label "Country"@en ;
+    rdfs:subClassOf flags:GeopoliticalEntity .
+
+flags:Date a owl:Class ;
+    rdfs:label "Date"@en .
+
+flags:Organization a owl:Class ;
+    rdfs:label "Organization"@en .
+
+flags:Symbol a owl:Class ;
+    rdfs:label "Symbol"@en .
+
+flags:Flag a owl:Class ;
+    rdfs:label "Flag"@en .
+
+flags:GeopoliticalEntity a owl:Class .
+

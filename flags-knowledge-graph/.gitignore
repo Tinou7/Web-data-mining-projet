@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Large KGE files
+data/kge/train.txt
+data/kge/valid.txt
+data/kge/test.txt
+data/kge/results/
+
+# Large RDF files (provide download link in README instead)
+kg_artifacts/expanded.nt
+
+# spaCy models
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
